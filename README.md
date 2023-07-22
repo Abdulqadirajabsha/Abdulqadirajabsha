@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Core Java, SpringBoot and Cloud**
 
-- 📄 My Resume [https://shorturl.at/iwBL1](https://shorturl.at/iwBL1)
+- 📄 < ahref="https://drive.google.com/file/d/18GR4nNkzU8bsPCGcV65oDOrcwD5z2DAD/view?usp=drive_link"> My Resume</a>
 
 - ⚡ Fun fact **I always remain calm and positive**
 
