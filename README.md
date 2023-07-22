@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Core Java, SpringBoot and Cloud**
 
-- 📄 <a href="https://drive.google.com/file/d/18GR4nNkzU8bsPCGcV65oDOrcwD5z2DAD/view?usp=drive_link" target="blank"> My Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/18GR4nNkzU8bsPCGcV65oDOrcwD5z2DAD/view?usp=drive_link" target="_blank"> My Resume</a>
 
 - ⚡ Fun fact **I always remain calm and positive**
 
