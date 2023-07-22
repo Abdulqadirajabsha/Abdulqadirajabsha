@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulqadir Ajabsha</h1>
-<h3 align="center">A passionate Software Engineer with over 2+ years of experience previously worked at Wipro. Skilled in Core Java, SQL and IAM skillset. Currently working on a web based projects, please go through my profile and let me know your feedback. Anything will be appreciated.</h3>
+<h3 align="center">A passionate Software Engineer with over 2+ years of experience. Previously worked at Wipro and Cuemath. Skilled in Core Java, SQL and IAM skillset. Currently working on a web based projects, please go through my profile and let me know your feedback. Anything will be appreciated.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadirajabsha&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadirajabsha" /> </p>
 
