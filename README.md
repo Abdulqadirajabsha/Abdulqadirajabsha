@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulqadir Ajabsha</h1>
-<h3 align="center">I have total professional experience of over 2+ years and have worked as a <strong>Technical Support Engineer</strong> for 1+ year. I have handled enterprise applications which ran on <strong>Oracle DB, Oracle forms, Unix Servers, Mainframe, SQL</strong> which included troubleshooting and resolving tickets under SLA using <strong>ServiceNow.</strong> I have also proficient in <strong>Core Java, Spring, MySQL, Hibernate, Angular, HTML, CSS and JavaScript</strong> and have build projects on it. I am also skilled in <strong>Git, Tomcat, Docker and Azure.</strong>. Currently working on a web based projects, please go through my profile and let me know your feedback. Anything will be appreciated.</h3>
+<h3 align="center">I have total professional experience of over 2+ years and have worked as a <strong>Technical Support Engineer</strong> for 1+ year. I have handled enterprise applications which ran on <strong>Oracle DB, Oracle forms, Unix Servers, Mainframe, SQL</strong> which included troubleshooting and resolving tickets under SLA using <strong>ServiceNow.</strong> I have also proficient in <strong>Core Java, Spring, MySQL, Hibernate, Angular, HTML, CSS and JavaScript</strong> and have build projects on it. I am also skilled in <strong>Git, Tomcat, Docker and Azure.</strong> 
+  
+  Currently working on a web based projects, please go through my profile and let me know your feedback. Anything will be appreciated.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadirajabsha&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadirajabsha" /> </p>
 
